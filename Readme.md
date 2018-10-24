@@ -10,9 +10,9 @@
 #### Problem statement
 
 Make a basic simulation of car parking software 
-* An app should check wether there is a parking place for a car or truck 
-* A should be able to park to both truck and car parking place when there's one available 
-* A truck should only be able to park to truck parking place
+* An app should check whether there is a parking place for a car or truck 
+* A car should be able to park on any parking place available: truck or car
+* A truck should only be able to park on truck parking place
 
 #### Requirements
 
